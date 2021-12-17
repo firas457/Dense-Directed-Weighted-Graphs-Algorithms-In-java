@@ -31,7 +31,6 @@ A location has x,y,z
 
 -Class DirectedWeightedGraphImpl : This class implements DirectedWeightedGraph interface.\
 As we mentioned , this class has two private HashMaps.
-![146603935-cb2fe125-65f2-47d9-997b-27eccaca0755](https://user-images.githubusercontent.com/94143804/146604184-97708929-11d9-4bbd-be63-ded6d91a6ac4.png)
 
 This class has thre main constructors , one to init the graph , one for a deep copy , and one inits a graph from json  
 
