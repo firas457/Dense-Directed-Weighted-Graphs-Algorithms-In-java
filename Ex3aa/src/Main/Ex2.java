@@ -64,9 +64,9 @@ public class Ex2 {
     }
 
     public static void main(String[] args) throws IOException {
-        String json_file = "data/G1.json";
+       // String json_file = "data/G1.json";
 
-        runGUI(json_file);
+        runGUI(args[0]);
     }
 
 }
