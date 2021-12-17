@@ -94,7 +94,9 @@ TSP - 0.015 seconds in average
 shortestpath - 0.015 seconds in average
 
 
-*UML DIAGRAM 
+
+
+*UML DIAGRAM :
 
 
 ![מדעי המחשב](https://user-images.githubusercontent.com/94143804/146603935-cb2fe125-65f2-47d9-997b-27eccaca0755.png)
