@@ -1,5 +1,6 @@
-# Directed Weighted Graph
+# Directed Weighted Graph + Algorithms in Java
 
+![b3821480-6c79-11e9-9f71-d80c770d70ed](https://user-images.githubusercontent.com/97015893/186190990-c4326234-c429-4965-91b6-56fbdc0b18e9.jpg)
 #### A Directed Weighted Graph is a graph that is made up of a set of vertices connected by directed edges , each edge has a deriction and weight .
 
 #### In formal terms, a directed graph is an ordered pair G = (V, E) where : \
